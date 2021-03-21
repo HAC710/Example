@@ -1,0 +1,16 @@
+d:\learn\bin\Debug\net5.0\learn.exe
+d:\learn\bin\Debug\net5.0\learn.deps.json
+d:\learn\bin\Debug\net5.0\learn.runtimeconfig.json
+d:\learn\bin\Debug\net5.0\learn.runtimeconfig.dev.json
+d:\learn\bin\Debug\net5.0\learn.dll
+d:\learn\bin\Debug\net5.0\ref\learn.dll
+d:\learn\bin\Debug\net5.0\learn.pdb
+d:\learn\obj\Debug\net5.0\learn.csprojAssemblyReference.cache
+d:\learn\obj\Debug\net5.0\learn.GeneratedMSBuildEditorConfig.editorconfig
+d:\learn\obj\Debug\net5.0\learn.AssemblyInfoInputs.cache
+d:\learn\obj\Debug\net5.0\learn.AssemblyInfo.cs
+d:\learn\obj\Debug\net5.0\learn.csproj.CoreCompileInputs.cache
+d:\learn\obj\Debug\net5.0\learn.dll
+d:\learn\obj\Debug\net5.0\ref\learn.dll
+d:\learn\obj\Debug\net5.0\learn.pdb
+d:\learn\obj\Debug\net5.0\learn.genruntimeconfig.cache
